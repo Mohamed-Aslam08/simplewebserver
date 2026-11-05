@@ -98,7 +98,7 @@ content = """
             <td align = "center">No pen or touch input is available for this display</td>
             </tr>
     </table>
-   </body
+   </body>
 </html>
 """
 class myhandler(BaseHTTPRequestHandler):
