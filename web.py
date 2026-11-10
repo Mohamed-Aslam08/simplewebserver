@@ -3,10 +3,10 @@ content = """
 <html>
    <head>
       <title>localhost:8000</title>
-      <h1 align="center">Mohamed Aslam 26007392</h1>
-      <h1 align="center">device details</h1>
    </head>
    <body>
+      <h1 align="center">Mohamed Aslam 26007392</h1>
+      <h1 align="center">device details</h1>
     <table border="1" align="center" cellpadding="10" cellspacing="0">
          <tr>
             <th align = "center">S.NO</th>
@@ -59,7 +59,7 @@ content = """
             <td align = "center">No pen or touch input is available for this display</td>
             </tr>
     </table>
-   </body
+   </body>
 </html>
 """
 class myhandler(BaseHTTPRequestHandler):

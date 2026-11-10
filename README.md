@@ -44,8 +44,13 @@ content = """
       <title>localhost:8000</title>
    </head>
    <body>
+<<<<<<< HEAD
     <h1 align="center">Mohamed Aslam 26007392</h1>
     <h1 align="center">device details</h1>
+=======
+      <h1 align="center">Mohamed Aslam 26007392</h1>
+      <h1 align="center">device details</h1>
+>>>>>>> 34de770 (success)
     <table border="1" align="center" cellpadding="10" cellspacing="0">
          <tr>
             <th align = "center">S.NO</th>
@@ -118,11 +123,11 @@ httpd.serve_forever()
 
 ## OUTPUT
 webpage
-![alt text](image-2.png)
+![alt text](image-1.png)
 
 web server
-![alt text](image-3.png)
 
+![alt text](image.png)
 
 
 
